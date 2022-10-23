@@ -8,6 +8,6 @@ Projeto contruído com base no layout disponibilizado em Figma pela Rocketseat.
 
 ## 🛠 Tecnologias
 
--Expo Manager Workflow
--TypeScript
--Fundamentos React
+- Expo Manager Workflow
+- TypeScript
+- Fundamentos React
